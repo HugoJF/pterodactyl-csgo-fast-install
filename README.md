@@ -18,7 +18,7 @@ Then, update `Script container` for your desired nest to `~fast-source-install:l
 
 Since most of the script is now contained inside the image, the only thing that we need to do, is "update" CS:GO and copy a file dependency.
 
-```
+```bash
 #!/bin/bash
 # CSGO Installation Script
 #
